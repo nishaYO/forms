@@ -1,0 +1,1 @@
+This project uses HTML CSS and JavaScript to send the information and the message of the form in the mailbox.
